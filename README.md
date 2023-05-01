@@ -2,13 +2,13 @@
 
 National Drug Strategy Household Survey
 
-The data consisted of ensemble informations along with some extra datasets for the further studiesa nd what sort if insights shall we prepare from it.
+The data consisted of ensemble informations along with some extra datasets for the further studies and what sort of insights shall we prepare from it.
 
 Please share your queries to mathewdeepak7500@gmail.com
 
 Power BI has been taken as a data visualization tool.
 
-The data in the excel sheet NDSHS are shown below:
+The data in the excel sheet NDSHS-2016 are shown below:
 Sex: Main sex variable for analysis
 A1: When people talk about "a drug problem", which is the first drug you think of?
 A2: Which ONE of these drugs do you think directly or indirectly causes the most deaths in Australia?
